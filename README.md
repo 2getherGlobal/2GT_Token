@@ -1,6 +1,6 @@
 # 2Gether Token (2GT)
 
-## Upgradable Smart Contracts for the [2Gether](https://www.2gether.global/) Token
+## Upgradable Smart Contracts for the [2GT](https://www.2gether.global/) Token
 
 
 ### Production Contracts Network Addresses
